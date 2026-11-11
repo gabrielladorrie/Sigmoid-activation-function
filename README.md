@@ -170,7 +170,7 @@ The application is deployed using **Streamlit Community Cloud**, allowing users 
 
 https://sigmoid-activation-function-l23fzkpqygv3v3bytn4tsn.streamlit.app/
 
-**GitHub Repository:** Add your Sigmoid GitHub repository URL here.
+**GitHub Repository:** (https://github.com/gabrielladorrie/Sigmoid-activation-function)
 
 ## 11. Learning Outcomes
 
