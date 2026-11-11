@@ -79,7 +79,7 @@ The application provides a clear title, graph labels, legend, grid, input slider
 
 The screenshot below shows the developed Sigmoid Activation Function web application.
 
-![Sigmoid Activation Function Application](images/sigmoid_app.png)
+(https://github.com/gabrielladorrie/Sigmoid-activation-function/blob/main/sigmoid_app.png)
 
 **Figure 1: Sigmoid Activation Function Web Application**
 
@@ -190,10 +190,7 @@ By using Streamlit, users can adjust input values and immediately observe the co
 
 The application provides an effective visual learning experience for understanding the Sigmoid activation function in artificial neural networks.
 
-## 13. Author
 
-Developed as part of an academic assignment on Neural Networks and Deep Learning.
-
-## 14. GitHub Repository Topics
+## 13. GitHub Repository Topics
 
 `python` `streamlit` `sigmoid` `activation-function` `neural-networks` `deep-learning` `machine-learning` `data-visualisation`
